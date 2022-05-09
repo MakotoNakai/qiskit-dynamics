@@ -16,8 +16,8 @@ import os
 import setuptools
 
 requirements = [
-    "numpy>=1.17",
-    "scipy>=1.4",
+    "numpy==1.17",
+    "scipy==1.4",
     "matplotlib>=3.0",
     "qiskit-terra>=0.16.0",
 ]
